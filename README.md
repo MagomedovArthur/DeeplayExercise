@@ -1,2 +1,2 @@
-# DeeplayExercise Dijkstra's algorithm
+# Dijkstra's algorithm
 Поиск кратчайшего пути алгоритмом Дейкстры из левого верхнего угла до правого нижнего в матрице размерности 4 на 4. 
